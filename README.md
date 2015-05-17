@@ -7,4 +7,8 @@ Requires pygame to run. Install pygame from
 http://www.pygame.org/download.shtml
 
 
-Shows the current time in the Fibonacci clock format. Updates itself in real time 
+Shows the current time in the Fibonacci clock format. Updates itself in real time.
+
+To run:
+
+$ python fibclock.py
